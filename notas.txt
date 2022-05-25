@@ -1,1 +1,7 @@
 
+extenciones de vs
+
+Prettier - Code formatter
+Live Server
+Path Intellisense
+Live Server Preview
